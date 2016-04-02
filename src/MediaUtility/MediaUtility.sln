@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLibrary", "MediaUtility\MediaLibrary.csproj", "{93B7B33D-6B1D-470C-891D-B8B2C1E97F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{F89AF1D6-9F67-4EF2-B716-C5EA58829D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCases", "TestCases\TestCases.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B7B33D-6B1D-470C-891D-B8B2C1E97F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B7B33D-6B1D-470C-891D-B8B2C1E97F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B7B33D-6B1D-470C-891D-B8B2C1E97F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B7B33D-6B1D-470C-891D-B8B2C1E97F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89AF1D6-9F67-4EF2-B716-C5EA58829D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89AF1D6-9F67-4EF2-B716-C5EA58829D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89AF1D6-9F67-4EF2-B716-C5EA58829D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89AF1D6-9F67-4EF2-B716-C5EA58829D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
