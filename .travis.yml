@@ -1,7 +1,8 @@
 sudo: false
 addons:
   apt:
-    - nunit-console
+    packages:
+      - nunit-console
 
 language: csharp
 solution: ./src/MediaUtility/MediaUtility.sln
