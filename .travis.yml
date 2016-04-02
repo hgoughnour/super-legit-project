@@ -11,8 +11,4 @@ install:
 
 script:
   - xbuild ./src/MediaUtility/MediaUtility.sln
-<<<<<<< HEAD
   - nunit-console ./src/MediaUtility/TestCases/bin/Debug/TestCases.dll
-=======
-  - nunit-console ./src/MediaUtility/
->>>>>>> 0249669... added .travis.yml
